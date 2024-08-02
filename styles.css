@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-main{
+.main{
 	padding: 12px;
 	background-color: #f5f5f5;
 }
@@ -8,7 +8,7 @@ div{
 	border: 1px solid black;
 	background-color: #f5f5f5;
 }
-h2{
+.author{
 	text-align: right;
 	font-style: italic;
 }
